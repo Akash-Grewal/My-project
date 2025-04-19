@@ -1,0 +1,124 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:lightgoldenrodyellow;
+    color: #333;
+  }
+  .h1{
+    text-decoration: underline;
+    color:wheat;
+    font-size: 40px;
+  font-weight: bold;
+  }
+  .P1{
+font-family: monospace;
+font-weight: bold;
+font-size: 20px;
+background-color:black;
+  }
+  .h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:bold;
+    font-size: 30px;
+  }
+  
+  header {
+    background-color:saddlebrown;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    border: #0077cc;
+  }
+  
+  nav ul li {
+    margin: 0 15px;
+    
+  }
+  
+  nav ul li a {
+    color:black;
+    text-decoration: none;
+    font-weight: bold;
+    border: 2px solid whitesmoke;
+    background-color:wheat;
+  }
+  
+  main {
+    padding: 2rem;
+  }
+  
+  section {
+    margin-bottom: 2rem;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #005fa3;
+  }
+  
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+  }
+  .horse-card{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border: 10px inset cornflowerblue;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    background-color:rgb(201, 137, 92);
+    
+  }
+  .center{
+    display: block;
+    margin-left: 600px;
+    margin-right: 10px;
+    margin-top: 20px;
+    width: 20%;
+  }
+  .ho1{
+    color:brown;
+    text-decoration: underline;
+    font-size: 30px;
+    font-family: cursive;
+  }
+  .about{
+    font-size: 30px;
+    font-family: monospace;
+    font-weight: bold;
+  }
+  .info{
+    font-size: 30px;
+    font-family: monospace;
+    font-weight: bold;
+    border: 7px inset blue;
+    margin-left: 60px;
+    margin-right: 40px;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    background-color:cadetblue;
+  }
+  .under{
+    text-decoration: line-through;
+  }
